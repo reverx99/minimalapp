@@ -80,7 +80,7 @@ class MainActivity : AppCompatActivity() {
                     callback?.invoke(origin, true, false)
                 }
             }
-            loadUrl("https://example.com/")
+            loadUrl("https://konyagundem.com")
         }
 
         setContentView(webView)
